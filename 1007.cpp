@@ -5,10 +5,8 @@ int main()
 {
 	int n, m;
 	char dna[500][1000]; int nx[1000] = { 0 };
-	/*This line was originally defined as 
-	char dna[50][100]; int nx[100] = { 0 };
-	But POJ gave a WA, following a related advice, I got an AC.
-	┻━┻︵╰(‵□′)╯︵┻━┻ 什么鬼
+	/*This line was originally defined as a smaller combination.
+	But errors were encountered, following a related advice, I expanded them.
 	*/
 	char *ha, *hb;
 	int i = 0, j;
