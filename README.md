@@ -12,7 +12,7 @@ MicroSoft Beauty Of Programming: http://hihocoder.com/contests/past
 Peking University Online Judge: http://poj.org
 ### UVa:
 UVa online judge: http://uva.onlinejudge.org
-### hiho
+### hiho:
 hihocoder: http://hihocoder.com/problemset
 
 # Detailed Copyright Info:
