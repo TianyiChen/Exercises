@@ -14,6 +14,9 @@ Peking University Online Judge: http://poj.org
 UVa online judge: http://uva.onlinejudge.org
 ### hiho:
 hihocoder: http://hihocoder.com/problemset
+### SGU:
+Saratov State University: http://acm.sgu.ru
+
 
 # Detailed Copyright Info:
 According to GitHub's terms of service at https://help.github.com/articles/github-terms-of-service/
