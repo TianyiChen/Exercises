@@ -1,6 +1,6 @@
 # Exercises
 My accepted codes on several OJs for reading. All files in this repository are created ***line by line*** by me.
-
+##Note: This repository is no longer maintained by me.
 All rights reserved.
 
 # Floder name meaning
